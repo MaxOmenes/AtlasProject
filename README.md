@@ -1,5 +1,6 @@
-
-![Image alt](https://github.com/MaxOmenes/AtlasProject/raw/main/web/webicon.png)
+<p align="center">
+ <img src="https://github.com/MaxOmenes/AtlasProject/raw/main/web/icon.png" width="350">
+</p>
 # Atlas #
 
 ### Цели проекта: ###
