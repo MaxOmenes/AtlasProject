@@ -1,6 +1,8 @@
-<p align="center">
- <img src="https://github.com/MaxOmenes/AtlasProject/raw/main/web/icon.png" width="350">
+<p>
+ <img src="https://github.com/MaxOmenes/AtlasProject/raw/main/web/icon.png" width="250">
 </p>
+
+
 # Atlas #
 
 ### Цели проекта: ###
