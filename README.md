@@ -37,6 +37,9 @@
 
     FuzzyWuzzy:
     pip install fuzzywuzzy
+    
+    PyQt5:
+    pip install PyQt5
 ---------------------------------------------------------
 mic.py - для вывода списка микрофона, индекс микрофона вписывается в voice.recognizer
 
