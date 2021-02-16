@@ -22,7 +22,6 @@ def chrome(request):
    webbrowser.open_new_tab("https://yandex.ru/search/?text=" + request)
 
 
-#Haudi code
 def callback():
     try:
         voice = recognizer()
